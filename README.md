@@ -44,6 +44,6 @@ Below is a summary breakdown of the parts of the code used to give you a more gr
 
 We finally obtained something like:
 
-![Election results](https://github.com/LAURYMEOW/Election_Analysis/blob/main/Election%20Results.png)
+![Election results](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Election%20Results.png)
 
 We can conclude that the code is flexible enough to be used in any type of election as well as it can be said that it represents an efficient vote counting procedure.
