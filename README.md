@@ -38,7 +38,7 @@ That is why we have implemented the use of Python software to ensure that the re
 The script that was developed for this analysis can be used to count other elections regardless of the level where it is applied. In other words, it can be used for local, district, senate or even national elections, it is only necessary to make a moficiation if the addresses from where the data is taken and where the analysis results are going to be stored are different without altering its template.
 Below is a summary breakdown of the parts of the code used to give you a more grounded idea of ​​how this script can be reused without much trouble.
 
-![Code 1](https://github.com/LAURYMEOW/Election_Analysis/blob/main/Code%201.png)
+![Code 1](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Code%201.png)
 ![Code 2](https://github.com/LAURYMEOW/Election_Analysis/blob/main/Code%202.png)
 ![Code 3](https://github.com/LAURYMEOW/Election_Analysis/blob/main/Code%203.png)
 
