@@ -16,7 +16,7 @@ The total number of votes registered in this congressional election was 369,711.
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 Of the total votes, Jefferson obtained 38,855, equivalent to 10.5% of the total, while Denver obtained 306,055 votes, representing 82.8% of those registered, being the county that obtained the largest number of votes, leaving Arapahoe in last place, receiving 6.7% of the votes.
 
-![Election by County](https://github.com/LAURYMEOW/Election_Analysis/blob/main/Results%20Counties.png)
+![Election by County](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Results%20Counties.png)
 
 - Which county had the largest number of votes?
 It is evident from the graph above that the County with the highest participation was Denver with 82.8% of the total. 
@@ -26,7 +26,7 @@ Most likely, this result is related to the fact that this county is the capital 
 For its part, in the results obtained it can be seen that of the three candidates who participated in the electoral race, Diana DeGette obtained the vast majority of votes, achieving 73.8% of the list in favor, followed by Charles Casper with a percentage in favor 23% well below first place.
 In last place is Raymond Anthony Doane with a support of 3.1%.
 
-![Election by Candidates](https://github.com/LAURYMEOW/Election_Analysis/blob/main/Results%20Candidates.png)
+![Election by Candidates](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Results%20Candidates.png)
 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 With the above, it can be confirmed that the candidate Diana DeGette was the winner of the Congressional Election with 272,892 votes in favor, that is, more than 50% of the list.
