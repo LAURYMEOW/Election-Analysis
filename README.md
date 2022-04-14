@@ -39,8 +39,8 @@ The script that was developed for this analysis can be used to count other elect
 Below is a summary breakdown of the parts of the code used to give you a more grounded idea of ​​how this script can be reused without much trouble.
 
 ![Code 1](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Code%201.png)
-![Code 2](https://github.com/LAURYMEOW/Election_Analysis/blob/main/Code%202.png)
-![Code 3](https://github.com/LAURYMEOW/Election_Analysis/blob/main/Code%203.png)
+![Code 2](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Code%202.png)
+![Code 3](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Code%203.png)
 
 We finally obtained something like:
 
