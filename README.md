@@ -36,7 +36,7 @@ With the above, it can be confirmed that the candidate Diana DeGette was the win
 As expected, the results of an election at any level always leads to the handling of a huge list of data to make the corresponding counts and reach the final verdict as soon as possible. A careful and efficient handling of the data will support the results without risk, while a traditional and primitive use of the same can become cumbersome and even generate dubious conclusions.
 That is why we have implemented the use of Python software to ensure that the results print the true population decision without the danger of counting errors. 
 The script that was developed for this analysis can be used to count other elections regardless of the level where it is applied. In other words, it can be used for local, district, senate or even national elections, it is only necessary to make a moficiation if the addresses from where the data is taken and where the analysis results are going to be stored are different without altering its template.
-Below is a summary breakdown of the parts of the code used to give you a more grounded idea of ​​how this script can be reused without much trouble.
+Below is a summary breakdown of the parts of the code used to give you a more grounded idea of ​​how this script can be reused without much trouble. Is important 
 
 ![Code 1](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Code%201.png)
 ![Code 2](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Code%202.png)
@@ -47,3 +47,8 @@ We finally obtained something like:
 ![Election results](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Election%20Results.png)
 
 We can conclude that the code is flexible enough to be used in any type of election as well as it can be said that it represents an efficient vote counting procedure.
+
+It is important to consider the order of data storage, as well as the names used to call each file and variable for the code to work automatically, otherwise modifications will have to be made to the script. Another important point is that this code is useful for the immediate count after an election, that is, it stores the votes 1 to 1. On the other hand, if we have previously obtained the totals of the counties and we want to obtain the final information of an election at national level, then the code must be modified to obtain the cumulative sum of the total votes (as shown in the comparative image below), as well as the total cumulative votes per candidate.
+
+![Election results](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Election%20Result.png)
+
