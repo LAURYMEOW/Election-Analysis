@@ -52,3 +52,6 @@ It is important to consider the order of data storage, as well as the names used
 
 ![Example](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Example%201.png)
 
+## Conclusion 
+
+With the above, it is concluded that the deliverable code is very useful for immediate counts after an election and serves as a basis for the necessary modifications to adjust it to some specific need of the auditor.
