@@ -50,5 +50,5 @@ We can conclude that the code is flexible enough to be used in any type of elect
 
 It is important to consider the order of data storage, as well as the names used to call each file and variable for the code to work automatically, otherwise modifications will have to be made to the script. Another important point is that this code is useful for the immediate count after an election, that is, it stores the votes 1 to 1. On the other hand, if we have previously obtained the totals of the counties and we want to obtain the final information of an election at national level, then the code must be modified to obtain the cumulative sum of the total votes (as shown in the comparative image below), as well as the total cumulative votes per candidate.
 
-![Election results](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Election%20Result.png)
+![Example](https://github.com/LAURYMEOW/Election-Analysis/blob/main/Example%201.png)
 
